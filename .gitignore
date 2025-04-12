@@ -21,6 +21,8 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+FireBoy-and-WaterGirl.iml
+/.idea
 
 ### VS Code ###
 .vscode/
